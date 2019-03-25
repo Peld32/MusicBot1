@@ -1,0 +1,5 @@
+Discord
+Asyncio
+Pymoe
+Youtube_dl
+Pip
