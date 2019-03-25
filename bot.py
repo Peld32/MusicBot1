@@ -7,7 +7,15 @@ it's been working since 5 months with no problem.
 
 from instapy import InstaPy
 from instapy.util import smart_run
-import time
+import discord
+from discord.ext import commands
+from discord.ext.commands import Bot
+import asyncio
+import random
+import requests
+import os 
+
+
 
 
 # get a session!
